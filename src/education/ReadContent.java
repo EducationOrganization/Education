@@ -5,28 +5,30 @@ import java.net.URL;
 
 public class ReadContent {
 	
-	public static void readFile(){
-			
+	static File file = null;
+	
+	public static void readFile() throws IOException{
+		BufferedReader in = null;
+		PrintWriter out = null;
+		
 		try{
-			
+			file = new File("D:\\siteCode.txt");			
 			URL url = new URL("http://rozetka.com.ua/");
-			
-			BufferedReader in = new BufferedReader(
+			in = new BufferedReader(
 									new InputStreamReader(url.openStream()));
-			
-			PrintWriter out = new PrintWriter(
+			out = new PrintWriter(
 								  new BufferedWriter(
-									  new FileWriter("D:\\education\\text.txt")));
-			
+									  new FileWriter(file)));
 			String s;
 			while((s=in.readLine()) != null){
 				out.println(s);
 			}
-			in.close();
-			out.close();
 			
 		}catch(IOException e){
 			e.printStackTrace();
+		}finally{
+			in.close();
+			out.close();
 		}
 	}
 	

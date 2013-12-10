@@ -4,28 +4,31 @@ import java.io.*;
 
 public class WriteURLs {
 	
-	public static void write(){
+	static File urls = null;
+	
+	public static void write() throws IOException{
+		BufferedReader in = null;
+		PrintWriter out = null;
 		
 		try {
-			BufferedReader in = new BufferedReader(
-									new FileReader("D:\\education\\text.txt"));
-			
-			PrintWriter out = new PrintWriter(
+			urls = new File("D:\\urls.txt");
+			in = new BufferedReader(
+									new FileReader(ReadContent.file));
+			out = new PrintWriter(
 								  new BufferedWriter(
-										new FileWriter("D:\\education\\urls.txt")));
-			
+										new FileWriter(urls)));		
 			String c;
 			while((c = in.readLine()) != null){
-				int ferstIndex = c.indexOf("\"http://");
+				int firstIndex = c.indexOf("\"http://");
 				int secondIndex;
 				
 				String substring = null;
 				
-					if(ferstIndex != -1){
-						secondIndex = c.indexOf(">", ferstIndex++);
+					if(firstIndex != -1){
+						secondIndex = c.indexOf(">", firstIndex++);
 						
 						if(secondIndex != -1){
-							substring = c.substring(ferstIndex, (secondIndex-1));
+							substring = c.substring(firstIndex, (secondIndex-1));
 							System.out.println(substring);
 							out.println(substring);
 						}
@@ -33,10 +36,9 @@ public class WriteURLs {
 			}
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		
+		}finally{
+			in.close();
+			out.close();
+		}		
 	}
-
 }
