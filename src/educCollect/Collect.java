@@ -5,12 +5,18 @@ import java.util.ArrayList;
 import java.util.*;
 
 public class Collect {
+	
+	static File csvSource = null;
+	static BufferedReader unsortedFile = null;
+	
 	public static void main(String[] args) throws IOException {
 		
-		List<String> list = new ArrayList<String>();
+		csvSource = new File("source.txt");
+		unsortedFile = new BufferedReader(
+										  new FileReader(csvSource));
 		
-		BufferedReader unsortedFile = new BufferedReader(
-										new FileReader("D:\\education\\fileToSort.txt"));		
+		List<String> list = new ArrayList<String>();
+				
 		String s ="";
 		
 		while((s=unsortedFile.readLine()) != null){
