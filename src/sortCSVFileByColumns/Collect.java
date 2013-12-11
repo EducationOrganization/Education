@@ -1,4 +1,4 @@
-package educCollect;
+package sortCSVFileByColumns;
 
 import java.io.*;
 import java.util.ArrayList;

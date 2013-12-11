@@ -1,4 +1,4 @@
-package education;
+package getLinksFromSite;
 
 import java.io.*;
 
