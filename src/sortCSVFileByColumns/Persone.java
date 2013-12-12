@@ -3,6 +3,8 @@ package sortCSVFileByColumns;
 public class Persone implements Comparable<Persone>{
 	private String name, emailAddress, firstName, lastName,password;
 	
+	static String label;
+	
 	Persone (String name, String emailAddress, String firstName, String lastName, String password){
 		this.setName(name);
 		this.setEmailAddress(emailAddress);
@@ -47,8 +49,26 @@ public class Persone implements Comparable<Persone>{
 		return password;
 	}
 
-	public void setPassword(String password2) {
-		this.password = password2;
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	
+	//Static methods to select sort colomn.
+	//Default sorting is sorting by names.
+	public static void sortByEmailAddress(){
+		label = "emailAddress";
+	}
+	
+	public static void sortByFirstName(){
+		label = "firstName";
+	}
+	
+	public static void sortByLastName(){
+		label = "lastName";
+	}
+	
+	public static void sortByPassword(){
+		label = "password";
 	}
 	
 	public String toString(){
@@ -57,8 +77,16 @@ public class Persone implements Comparable<Persone>{
 
 	@Override
 	public int compareTo(Persone o) {
-		return this.name.compareTo(o.name);
+		if(label == "emailAddress"){
+			return this.emailAddress.compareTo(o.emailAddress);
+		}else if(label == "firstName"){
+			return this.firstName.compareTo(o.firstName);
+		}else if(label == "lastName"){
+			return this.lastName.compareTo(o.lastName);
+		}else if(label == "password"){
+			return this.password.compareTo(o.password);
+		}else{
+			return this.name.compareTo(o.name);
+		}
 	}
-	
-
 }

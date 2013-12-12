@@ -33,7 +33,7 @@ public class Collect {
 				persone = new Persone(personalData[0], personalData[1], personalData[2], personalData[3], personalData[4]);
 				persones.add(persone);
 			}
-			
+			//Persone.sortByFirstName();
 			Collections.sort(persones);
 			
 			for(Persone p : persones){
