@@ -52,7 +52,7 @@ public class Persone implements Comparable<Persone>{
 	}
 	
 	public String toString(){
-		return name +" "+ emailAddress +" "+ firstName + " " + lastName + " " + password;
+		return name +","+ emailAddress +","+ firstName + "," + lastName + "," + password;
 	}
 
 	@Override
