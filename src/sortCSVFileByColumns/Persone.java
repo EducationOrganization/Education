@@ -3,7 +3,7 @@ package sortCSVFileByColumns;
 public class Persone implements Comparable<Persone>{
 	private String name, emailAddress, firstName, lastName,password;
 	
-	static String label;
+	static int label;
 	
 	Persone (String name, String emailAddress, String firstName, String lastName, String password){
 		this.setName(name);
@@ -56,19 +56,19 @@ public class Persone implements Comparable<Persone>{
 	//Static methods to select sort colomn.
 	//Default sorting is sorting by names.
 	public static void sortByEmailAddress(){
-		label = "emailAddress";
+		label = 1;
 	}
 	
 	public static void sortByFirstName(){
-		label = "firstName";
+		label = 2;
 	}
 	
 	public static void sortByLastName(){
-		label = "lastName";
+		label = 3;
 	}
 	
 	public static void sortByPassword(){
-		label = "password";
+		label = 4;
 	}
 	
 	public String toString(){
@@ -77,13 +77,13 @@ public class Persone implements Comparable<Persone>{
 
 	@Override
 	public int compareTo(Persone o) {
-		if(label == "emailAddress"){
+		if(label == 1){
 			return this.emailAddress.compareTo(o.emailAddress);
-		}else if(label == "firstName"){
+		}else if(label == 2){
 			return this.firstName.compareTo(o.firstName);
-		}else if(label == "lastName"){
+		}else if(label == 3){
 			return this.lastName.compareTo(o.lastName);
-		}else if(label == "password"){
+		}else if(label == 4){
 			return this.password.compareTo(o.password);
 		}else{
 			return this.name.compareTo(o.name);
