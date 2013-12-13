@@ -11,7 +11,7 @@ public class WriteURLs {
 		PrintWriter out = null;
 		
 		try {
-			urls = new File("D:\\urls.txt");
+			urls = new File("savedUrls.txt");
 			in = new BufferedReader(
 									new FileReader(ReadContent.file));
 			out = new PrintWriter(

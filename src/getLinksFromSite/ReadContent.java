@@ -12,7 +12,7 @@ public class ReadContent {
 		PrintWriter out = null;
 		
 		try{
-			file = new File("D:\\siteCode.txt");			
+			file = new File("htmlCodeOfProcessedSite.txt");			
 			URL url = new URL("http://rozetka.com.ua/");
 			in = new BufferedReader(
 									new InputStreamReader(url.openStream()));

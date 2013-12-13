@@ -14,14 +14,14 @@ public class FileProcessing {
 		List<Persone> persones = new ArrayList<Persone>();
 		
 		try{
-			//2..Get access to general csv file
+			//2.Get access to general csv file
 			in = new BufferedReader(
-					 new FileReader("source.txt"));
+					 new FileReader("unsortedFile.txt"));
 			
 			//3.Create file to save sorted csv results.
 			out = new PrintWriter(
 					  new BufferedWriter(
-						  new FileWriter("D:\\sortedCSV.txt")));
+						  new FileWriter("sortedCSV.txt")));
 			
 			//4.Create 'Persone' objects by csv file lines and add them to collection 'persones'. 
 			String s;
