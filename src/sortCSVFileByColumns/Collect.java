@@ -33,9 +33,19 @@ public class Collect {
 				persone = new Persone(personalData[0], personalData[1], personalData[2], personalData[3], personalData[4]);
 				persones.add(persone);
 			}
-			Persone.sortByFirstName();
+			//Persone.sortByLastName();
+			//Persone.sortByEmailAddress();
+			//Persone.sortByFirstName();
+			//Persone.sortByPassword();
 			Collections.sort(persones);
 			
+			Iterator<Persone> itr = persones.iterator();
+			while(itr.hasNext()){
+				if(itr.next().getName().equals("Name")){
+					itr.remove();
+				}
+			}
+			persones.add(0, new Persone("Name", "EmailAddress", "FirstName", "LastName", "Password"));
 			for(Persone p : persones){
 				System.out.println(p);
 				out.println(p);
