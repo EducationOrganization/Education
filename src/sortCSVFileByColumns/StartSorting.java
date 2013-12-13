@@ -9,7 +9,7 @@ public class StartSorting {
 		//The following methods specify the column that will be made sorting:
 			//Persone.sortByFirstName();
 			//Persone.sortByLastName();
-			//Persone.sortByEmailAddress();
+			Persone.sortByEmailAddress();
 			//Persone.sortByPassword();
 		try {
 			FileProcessing.readAndSort();
