@@ -22,7 +22,7 @@ public class WriteURLs {
 				int firstIndex = c.indexOf("\"http://");
 				int secondIndex;
 				
-				String substring = null;
+				String substring;
 				
 					if(firstIndex != -1){
 						secondIndex = c.indexOf(">", firstIndex++);
