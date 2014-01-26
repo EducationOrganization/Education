@@ -1,9 +1,10 @@
 package sortCSVFileByColumns;
 
-public class Persone implements Comparable<Persone>{
-	private String name, emailAddress, firstName, lastName,password;
+public class Persone implements Comparable<Persone>{   //Person without E at the end of word =)))
+
+    private String name, emailAddress, firstName, lastName,password; //bad code style, should be splitted to 4 lines, 1 line per variable
 	
-	static int label;
+	static int label;      //access modifier?
 	
 	Persone (String name, String emailAddress, String firstName, String lastName, String password){
 		this.setName(name);
@@ -77,6 +78,8 @@ public class Persone implements Comparable<Persone>{
 
 	@Override
 	public int compareTo(Persone o) {
+        //если есть сложная логика сравнения, ее лучше вынести в компаратор
+        //тогда label будет хранится в нем, если хранить способ сортивки в статической переменной - можно получить охуенные бока при многопоточном исполнении
 		if(label == 1){
 			return this.emailAddress.compareTo(o.emailAddress);
 		}else if(label == 2){
@@ -88,5 +91,6 @@ public class Persone implements Comparable<Persone>{
 		}else{
 			return this.name.compareTo(o.name);
 		}
+        // you should use switch operator instead of if's ladder =)))
 	}
 }
