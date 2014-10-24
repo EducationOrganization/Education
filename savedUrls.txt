@@ -1,11 +1,9 @@
 http://i.rozetka.ua/favicon.ico
 http://html5shiv.googlecode.com/svn/trunk/html5.js
 http://m.rozetka.ua/" style="color:#000
-http://rozetka.com.ua/news-articles-promotions/promotions/" class="lightblue underline main-page-news-more
-http://rozetka.com.ua/news-articles-promotions/promotions/sams_nx1100_sprgift.html" class="main-page-news-i-title-link
-http://rozetka.com.ua/news-articles-promotions/promotions/sams_nx1100_sprgift.html" class="lightblue
-http://rozetka.com.ua/news-articles-promotions/promotions/6485.html" class="main-page-news-i-title-link
-http://rozetka.com.ua/news-articles-promotions/promotions/6485.html" class="lightblue
+http://rozetka.com.ua/news-articles-promotions/promotions/" class="lightblue arrow-link main-page-news-more
+http://rozetka.com.ua/news-articles-promotions/promotions/lg32lb530u_200.html" class="underline
+http://rozetka.com.ua/news-articles-promotions/promotions/acer_asp5_suprpr.html" class="underline
 http://rozetka.com.ua/computers-notebooks/c80253/" class="black underline
 http://rozetka.com.ua/notebooks/c80004/
 http://hard.rozetka.com.ua/computers/c80095/
@@ -14,7 +12,10 @@ http://soft.rozetka.com.ua/
 http://hard.rozetka.com.ua/monitors/c80089/
 http://hard.rozetka.com.ua/
 http://rozetka.com.ua/printers-mfu/c80007/
-http://rozetka.com.ua/computers-notebooks/c80253/" class="lightblue underline
+http://rozetka.com.ua/pad_acc/c108714/
+http://rozetka.com.ua/computers-notebooks-accessories/c80256/
+http://rozetka.com.ua/services/c153670/
+http://rozetka.com.ua/computers-notebooks/c80253/" class="lightblue arrow-link
 http://bt.rozetka.com.ua/" class="black underline
 http://bt.rozetka.com.ua/bigbt/c80080/
 http://bt.rozetka.com.ua/builtin/c80078/
@@ -22,7 +23,7 @@ http://bt.rozetka.com.ua/smallbt/c80077/
 http://bt.rozetka.com.ua/climate/c80079/
 http://bt.rozetka.com.ua/kitchendishes/c80076/
 http://bt.rozetka.com.ua/bathroom/c80106/
-http://bt.rozetka.com.ua/" class="lightblue underline
+http://bt.rozetka.com.ua/" class="lightblue arrow-link
 http://rozetka.com.ua/phones-mp3-gps/c80257/" class="black underline
 http://rozetka.com.ua/mobile-phones/c80003/
 http://rozetka.com.ua/mp3-pmp/c80016/
@@ -30,66 +31,80 @@ http://rozetka.com.ua/e-books/c80023/
 http://rozetka.com.ua/tablets/c130309/
 http://rozetka.com.ua/headphones/c80027/
 http://rozetka.com.ua/gps-navigators/c80047/
-http://rozetka.com.ua/phones-mp3-gps/c80257/" class="lightblue underline
+http://rozetka.com.ua/mobile-smart-accessories/c80263/
+http://rozetka.com.ua/phones-mp3-gps/c80257/" class="lightblue arrow-link
 http://rozetka.com.ua/tv-photo-video/c80258/" class="black underline
 http://rozetka.com.ua/tv/c80015/
 http://rozetka.com.ua/dvd-hd-players/c80011/
 http://rozetka.com.ua/photo/c80001/
 http://rozetka.com.ua/musical_instruments/c267255/
-http://rozetka.com.ua/tv-photo-video/c80258/" class="lightblue underline
+http://rozetka.com.ua/photo-video-accessories/c80259/
+http://rozetka.com.ua/tv-photo-video/c80258/" class="lightblue arrow-link
 http://rozetka.com.ua/games-gifts-gadgets/c80260/" class="black underline
 http://rozetka.com.ua/usb-gifts-jokes/c80017/
 http://rozetka.com.ua/giftcertificate/c90374/
 http://rozetka.com.ua/game-zone/c80261/
-http://rozetka.com.ua/games-gifts-gadgets/c80260/" class="lightblue underline
+http://rozetka.com.ua/games-gifts-gadgets/c80260/" class="lightblue arrow-link
 http://rozetka.com.ua/outdoorsman/c81202/" class="black underline
 http://rozetka.com.ua/tourizm/c82411/
 http://rozetka.com.ua/sport-games/c81203/
 http://rozetka.com.ua/fitness/c132895/
-http://rozetka.com.ua/outdoorsman/c81202/" class="lightblue underline
+http://rozetka.com.ua/outdoorsman/c81202/" class="lightblue arrow-link
 http://rozetka.com.ua/kids/c88468/" class="black underline
 http://rozetka.com.ua/progressive/c100784/
 http://rozetka.com.ua/dolls_soldiers/c100808/
 http://rozetka.com.ua/transportation/c100812/
 http://rozetka.com.ua/building_kits/c97420/
-http://rozetka.com.ua/kids/c88468/" class="lightblue underline
+http://rozetka.com.ua/kids/c88468/" class="lightblue arrow-link
 http://rozetka.com.ua/house_garden/c152456/" class="black underline
 http://rozetka.com.ua/tools/c152460/
 http://rozetka.com.ua/garden_tech/c152459/
 http://rozetka.com.ua/_furniture/c152458/
 http://rozetka.com.ua/watering/c152462/
 http://rozetka.com.ua/modern_house/c230133/
-http://rozetka.com.ua/house_garden/c152456/" class="lightblue underline
+http://rozetka.com.ua/house_garden/c152456/" class="lightblue arrow-link
 http://rozetka.com.ua/273290/c273290/" class="black underline
 http://rozetka.com.ua/273291/c273291/
 http://rozetka.com.ua/car_light/c277644/
 http://rozetka.com.ua/280596/c280596/
 http://rozetka.com.ua/car_equipment/c278246/
 http://rozetka.com.ua/car_cosmetics/c279061/
-http://rozetka.com.ua/273290/c273290/" class="lightblue underline
-http://rozetka.com.ua/contacts/" class="lightblue
+http://rozetka.com.ua/273290/c273290/" class="lightblue arrow-link
+http://rozetka.com.ua/shoes_clothes/c1162030/" class="black underline
+http://rozetka.com.ua/women_shoes/c721659/
+http://rozetka.com.ua/1162060/c1162060/
+http://rozetka.com.ua/men_shoes/c721654/
+http://rozetka.com.ua/1162070/c1162070/
+http://rozetka.com.ua/school_uniform/c1136460/
+http://rozetka.com.ua/shoes_clothes/c1162030/" class="lightblue arrow-link
+http://rozetka.com.ua/jewerly/c723119/" class="black underline
+http://rozetka.com.ua/zolotye-i-platinovye-izdeliya/c723934/
+http://rozetka.com.ua/serebryanye-izdeliya/c753584/
+http://rozetka.com.ua/elitnaya-bizhuteriya/c753879/
+http://rozetka.com.ua/jewerly/c723119/" class="lightblue arrow-link
+http://rozetka.com.ua/contacts/" class="lightblue underline
 http://rozetka.com.ua/terms/" class="terms
-http://rozetka.com.ua/gift/" class="body-footer-l-i-link
-http://rozetka.com.ua/service-centers/" class="body-footer-l-i-link
-http://rozetka.com.ua/faq/" class="body-footer-l-i-link
+http://rozetka.com.ua/gift/" class="lightblue underline
+http://rozetka.com.ua/service-centers/" class="lightblue underline
+http://rozetka.com.ua/faq/" class="lightblue underline
 http://rozetka.com.ua/order-problem/
 http://rozetka.com.ua/feedback/
-http://rozetka.com.ua/about/" class="body-footer-l-i-link
-http://rozetka.com.ua/contacts/" class="body-footer-l-i-link
-http://rozetka.com.ua/partnership/" class="body-footer-l-i-link
-http://i4.rozetka.ua/design/owox.png" width="100" height="27" alt="OWOX
+http://rozetka.com.ua/about/" class="lightblue underline
+http://rozetka.com.ua/contacts/" class="lightblue underline
+http://rozetka.com.ua/partnership/" class="lightblue underline
+http://i2.rozetka.ua/design/owox.png" width="100" height="27" alt="OWOX
 http://vk.com/club20877147" class="vk" target="_blank" rel="nofollow
-http://facebook.com/rozetka.ua" class="fb" target="_blank" rel="nofollow
+http://www.facebook.com/rozetka.ua" class="fb" target="_blank" rel="nofollow
 http://twitter.com/rozetka_news" class="twitter" target="_blank" rel="nofollow
 http://www.youtube.com/subscription_center?add_user=rozetkaua" class="youtube" target="_blank" rel="nofollow
-http://rozetka.com.ua/news-articles-promotions/news/recent.rss" class="lightblue
-http://rozetka.com.ua/news-articles-promotions/promotions/recent.rss" class="lightblue
+http://rozetka.com.ua//news-articles-promotions/news/recent.rss" class="lightblue
+http://rozetka.com.ua//news-articles-promotions/promotions/recent.rss" class="lightblue
 http://rozetka.com.ua/faq/" class="m-top-i-link
 http://rozetka.com.ua/credit/" class="m-top-i-link
 http://rozetka.com.ua/payments-and-deliveries/" class="m-top-i-link
 http://rozetka.com.ua/warranty/" class="m-top-i-link
 http://rozetka.com.ua/contacts/" class="m-top-i-link
-http://i2.rozetka.ua/logos/0/23.png" width="201" height="57" alt="�?нтернет магазин Rozetka.ua - Новый год!" title="�?нтернет магазин Rozetka.ua - Новый год!"
+http://i2.rozetka.ua/logos/0/40.png" width="179" height="59" alt="Интернет магазин Rozetka.ua - Украина едина и неделима!" title="Интернет магазин Rozetka.ua - Украина едина и неделима!"
 http://rozetka.com.ua/search/
 http://rozetka.com.ua/computers-notebooks/c80253/" class="m-main-title" name="active-elem
 http://rozetka.com.ua/notebooks/c80004/
@@ -101,31 +116,33 @@ http://rozetka.com.ua/power_units/c180768/
 http://rozetka.com.ua/notebook_stands/c183690/
 http://hard.rozetka.com.ua/ssd/c80109/
 http://hard.rozetka.com.ua/hdd/c80084/22680=external/
-http://rozetka.com.ua/computers-notebooks-accessories/c80256/
 http://rozetka.com.ua/usb-flash-memory/c80045/
 http://rozetka.com.ua/web_cameras/c180143/
 http://rozetka.com.ua/services/c153670/
-http://rozetka.com.ua/games-gifts-gadgets/c80260/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=2590/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=42534/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=42529/
+http://rozetka.com.ua/smartwatch/c651392/
 http://rozetka.com.ua/consoles/c80020/
 http://rozetka.com.ua/con_accessory/c100967/
 http://rozetka.com.ua/djoysticks/c80173/
 http://rozetka.com.ua/tablets/c130309/
 http://rozetka.com.ua/tablets/c130309/
+http://rozetka.com.ua/pad_acc/c108714/
 http://rozetka.com.ua/tablet_covers/c305219/
-http://rozetka.com.ua/pad_acc/c108714/22982=9944/
-http://rozetka.com.ua/pad_acc/c108714/22982=15458/
-http://rozetka.com.ua/autoholders/c147913/29385=33070/
-http://rozetka.com.ua/pad_acc/c108714/22982=15459/
-http://rozetka.com.ua/pad_acc/c108714/22982=11399%2C13490%2C20267/
-http://rozetka.com.ua/modems/c83244/
-http://rozetka.com.ua/e-books/c80023/
-http://rozetka.com.ua/ereader_accessories/c195851/
-http://rozetka.com.ua/headphones/c80027/
+http://rozetka.com.ua/protect_skin/c146202/23448=72894/
 http://rozetka.com.ua/memory-cards/c80044/
+http://rozetka.com.ua/headphones/c80027/
+http://rozetka.com.ua/headsets/c80032/23494=bluetooth/
+http://hard.rozetka.com.ua/speakers/c80100/35704=45344/
+http://rozetka.com.ua/mobile_charger/c146341/42644=75494/
+http://rozetka.com.ua/387969/c387969/40239=66134/
+http://rozetka.com.ua/autoholders/c147913/29385=33070/
+http://rozetka.com.ua/stylus/c148157/
+http://rozetka.com.ua/docing_stations/c236805/42664=75784/
+http://rozetka.com.ua/data_cable/c146539/23474=cable/
+http://rozetka.com.ua/mobile_internet/c83244/
+http://rozetka.com.ua/e-books/c80023/
+http://rozetka.com.ua/ereader_accessories/c195851/24838=15517%2C22952/
+http://rozetka.com.ua/ereader_accessories/c195851/24838=15555/
+http://rozetka.com.ua/mobile_charger/c146341/42644=75499/
 http://hard.rozetka.com.ua/computers/c80095/
 http://hard.rozetka.com.ua/computers/c80095/
 http://hard.rozetka.com.ua/nettops/c80107/
@@ -136,10 +153,11 @@ http://hard.rozetka.com.ua/
 http://soft.rozetka.com.ua/
 http://rozetka.com.ua/network-equipment/c80111/
 http://hard.rozetka.com.ua/ups/c80108/
+http://rozetka.com.ua/baterries_for_ups/c1554082/
 http://rozetka.com.ua/stabilizers/c144719/
 http://rozetka.com.ua/protectors/c84863/
 http://rozetka.com.ua/grafic-tablets/c83199/
-http://rozetka.com.ua/computers-notebooks-accessories/c80256/
+http://rozetka.com.ua/passive_network_equipment/c1230965/
 http://hard.rozetka.com.ua/
 http://hard.rozetka.com.ua/processors/c80083/
 http://hard.rozetka.com.ua/motherboards/c80082/
@@ -161,52 +179,77 @@ http://soft.rozetka.com.ua/games/c80066/
 http://soft.rozetka.com.ua/os/c80063/
 http://soft.rozetka.com.ua/office-applications/c80064/
 http://soft.rozetka.com.ua/antivirus/c80062/
-http://soft.rozetka.com.ua/text-recognition/c80115/
 http://soft.rozetka.com.ua/translators/c80069/
 http://soft.rozetka.com.ua/archivers/c80116/
 http://soft.rozetka.com.ua/system-utilities/c80118/
 http://soft.rozetka.com.ua/server_software/c111389/
 http://rozetka.com.ua/cms/c131141/
 http://rozetka.com.ua/sapr/c118575/
+http://rozetka.com.ua/database_management_system/c729869/
 http://soft.rozetka.com.ua/multimedia/c80065/
 http://soft.rozetka.com.ua/pda-software/c80102/
-http://rozetka.com.ua/office-equipment/c80254/
+http://rozetka.com.ua/3d_printers/c1593467/
 http://rozetka.com.ua/printers-mfu/c80007/
 http://rozetka.com.ua/original-cartridge/c80024/
 http://rozetka.com.ua/SNPC/c81224/
 http://rozetka.com.ua/scanners/c80028/
 http://rozetka.com.ua/office-phones/c80029/21101=2751/
-http://rozetka.com.ua/office-phones/c80029/21101=2752/
 http://rozetka.com.ua/ip-telephones/c80197/
 http://rozetka.com.ua/fax/c80030/
 http://rozetka.com.ua/shredders/c132946/
 http://rozetka.com.ua/laminator/c248894/
 http://rozetka.com.ua/binders/c252454/
+http://rozetka.com.ua/presentation_equipment/c742864/
+http://rozetka.com.ua/754404/c754404/
 http://rozetka.com.ua/projector/c80012/
-http://rozetka.com.ua/projector-screens/c80021/
+http://rozetka.com.ua/projector_accessories/c147793/23500=93789/
+http://rozetka.com.ua/projector_accessories/c147793/23500=77909/
 http://rozetka.com.ua/projector_accessories/c147793/
 http://rozetka.com.ua/cleaning/c84878/
 http://rozetka.com.ua/computers-notebooks/c80253/
 http://rozetka.com.ua/phones-mp3-gps/c80257/" class="m-main-title" name="active-elem
 http://rozetka.com.ua/mobile-phones/c80003/
-http://rozetka.com.ua/mobile-phones/c80003/filter/preset=smartfon/
+http://rozetka.com.ua/smartphones/c80010/
 http://rozetka.com.ua/mobile-phones/c80003/filter/
 http://rozetka.com.ua/office-phones/c80029/
 http://rozetka.com.ua/headsets/c80032/
+http://rozetka.com.ua/smartwatch/c651392/
 http://rozetka.com.ua/mobile-smart-accessories/c80263/
 http://rozetka.com.ua/cases/c146229/
 http://rozetka.com.ua/memory-cards/c80044/
 http://rozetka.com.ua/protect_skin/c146202/
-http://rozetka.com.ua/mobile_charger/c146341/
+http://rozetka.com.ua/mobile_charger/c146341/42644=75489/
 http://rozetka.com.ua/autoholders/c147913/
+http://rozetka.com.ua/docing_stations/c236805/42664=75779/
 http://rozetka.com.ua/travelsim/c147629/
 http://rozetka.com.ua/data_cable/c146539/
 http://rozetka.com.ua/mobile_battery/c146332/
 http://rozetka.com.ua/387969/c387969/
 http://rozetka.com.ua/stylus/c148157/
+http://rozetka.com.ua/dif_accessories/c80042/26435=26009/
+http://rozetka.com.ua/tablets/c130309/
+http://rozetka.com.ua/tablets/c130309/
+http://rozetka.com.ua/pad_acc/c108714/22982=11399%2C13490%2C20267/
+http://rozetka.com.ua/tablet_covers/c305219/
+http://rozetka.com.ua/protect_skin/c146202/23448=72894/
+http://rozetka.com.ua/memory-cards/c80044/
+http://rozetka.com.ua/headphones/c80027/
+http://rozetka.com.ua/headsets/c80032/23494=bluetooth/
+http://hard.rozetka.com.ua/speakers/c80100/35704=45344/
+http://rozetka.com.ua/mobile_charger/c146341/42644=75494/
+http://rozetka.com.ua/387969/c387969/40239=66134/
+http://rozetka.com.ua/autoholders/c147913/29385=33070/
+http://rozetka.com.ua/stylus/c148157/
+http://rozetka.com.ua/docing_stations/c236805/42664=75784/
+http://rozetka.com.ua/data_cable/c146539/23474=cable/
+http://rozetka.com.ua/mobile_internet/c83244/
+http://rozetka.com.ua/e-books/c80023/
+http://rozetka.com.ua/ereader_accessories/c195851/24838=15517%2C22952/
+http://rozetka.com.ua/ereader_accessories/c195851/24838=15555/
+http://rozetka.com.ua/mobile_charger/c146341/42644=75499/
 http://rozetka.com.ua/mp3-pmp/c80016/
 http://rozetka.com.ua/mp3-pmp/c80016/
-http://rozetka.com.ua/docing_stations/c236805/
+http://rozetka.com.ua/docing_stations/c236805/42664=75789/
 http://rozetka.com.ua/headphones/c80027/
 http://rozetka.com.ua/amps/c254366/
 http://rozetka.com.ua/headphone-accessories/c202253/
@@ -220,10 +263,9 @@ http://rozetka.com.ua/vdr/c153617/
 http://rozetka.com.ua/transmitters/c130186/
 http://soft.rozetka.com.ua/navigation-software/c80105/
 http://rozetka.com.ua/gps-navigators-accessories/c80113/
-http://rozetka.com.ua/dictophones/c80022/
 http://rozetka.com.ua/games-gifts-gadgets/c80260/
 http://rozetka.com.ua/usb-gifts-jokes/c80017/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=2590/
+http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=43939/
 http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=42534/
 http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=42529/
 http://rozetka.com.ua/consoles/c80020/
@@ -238,18 +280,20 @@ http://rozetka.com.ua/all-tv/c80037/unique=3d/
 http://rozetka.com.ua/all-tv/c80037/unique=led/
 http://rozetka.com.ua/all-tv/c80037/22202=plasma/
 http://rozetka.com.ua/home-theaters/c84535/
+http://rozetka.com.ua/hi-fi_speakers/c451989/
 http://rozetka.com.ua/3d_glasses/c131143/
-http://rozetka.com.ua/dvd-hd-players/c80011/
 http://rozetka.com.ua/av_receivers/c283322/
-http://rozetka.com.ua/projector/c80012/20988=1981/
 http://rozetka.com.ua/home_audio/c224329/
 http://hard.rozetka.com.ua/soundcards/c80088/26372=23274/
+http://rozetka.com.ua/stereoamps/c350560/
 http://rozetka.com.ua/tv-mounts-stands/c80071/
-http://rozetka.com.ua/tv_webcam/c221177/
 http://rozetka.com.ua/tv-cables/c80073/
+http://rozetka.com.ua/mus_cable/c275836/26925=38255/
 http://rozetka.com.ua/universal-remote-control/c80070/
 http://rozetka.com.ua/tv_antennas/c165692/
 http://rozetka.com.ua/protectors/c84863/
+http://rozetka.com.ua/projector/c80012/20988=1981/
+http://rozetka.com.ua/projector_accessories/c147793/23500=93789/
 http://rozetka.com.ua/photo/c80001/
 http://rozetka.com.ua/photo/c80001/
 http://rozetka.com.ua/video/c80002/
@@ -265,6 +309,7 @@ http://rozetka.com.ua/digital-photoframes/c80058/
 http://rozetka.com.ua/memory-cards/c80044/
 http://rozetka.com.ua/cleaning/c84878/
 http://rozetka.com.ua/action_accs/c179179/
+http://rozetka.com.ua/baterries/c654239/
 http://rozetka.com.ua/musical_instruments/c267255/
 http://rozetka.com.ua/267256/c267256/
 http://rozetka.com.ua/ukulele/c294194/
@@ -272,7 +317,6 @@ http://rozetka.com.ua/electroguitars/c267838/
 http://rozetka.com.ua/basses/c269618/
 http://rozetka.com.ua/guitar_combo/c270029/
 http://rozetka.com.ua/head_amps/c271343/
-http://rozetka.com.ua/guitar_cabinets/c271392/
 http://rozetka.com.ua/271609/c271609/
 http://rozetka.com.ua/271848/c271848/
 http://rozetka.com.ua/guitar_tuners/c272110/
@@ -283,33 +327,32 @@ http://rozetka.com.ua/music_stand/c275788/
 http://rozetka.com.ua/mediators/c274478/
 http://rozetka.com.ua/capos/c274446/
 http://rozetka.com.ua/mus_cable/c275836/
+http://rozetka.com.ua/care_accessories/c275827/
+http://rozetka.com.ua/guitar_assesories/c1131230/
 http://rozetka.com.ua/digital_pianos/c284868/27617=26601/
 http://rozetka.com.ua/digital_pianos/c284868/27617=26602/
 http://rozetka.com.ua/midi_keyboards/c285755/
-http://rozetka.com.ua/accordions/c347440/
 http://rozetka.com.ua/keyboard_accessories/c288856/
 http://rozetka.com.ua/tv-photo-video/musical_instruments/winds/
-http://rozetka.com.ua/tv-photo-video/musical_instruments/winds/melodicas/
+http://rozetka.com.ua/recorders/c307619/
 http://rozetka.com.ua/tv-photo-video/musical_instruments/drums/
 http://rozetka.com.ua/tv-photo-video/musical_instruments/drums/e_drums/
-http://rozetka.com.ua/tv-photo-video/musical_instruments/drums/percussion/
 http://rozetka.com.ua/306949/c306949/
 http://rozetka.com.ua/violins/c306950/
-http://rozetka.com.ua/violin_accessories/c307539/
 http://rozetka.com.ua/pro_audio/c297931/
 http://rozetka.com.ua/loudspeakers/c297932/
 http://rozetka.com.ua/audio_monitors/c297933/
 http://rozetka.com.ua/mixers/c299290/
 http://rozetka.com.ua/turntables/c330015/
 http://rozetka.com.ua/recording/c298222/
-http://hard.rozetka.com.ua/soundcards/c80088/26372=24350/
+http://rozetka.com.ua/dictophones/c80022/
+http://hard.rozetka.com.ua/soundcards/c80088/26372=24350%2C26950/
 http://rozetka.com.ua/mics_radiosystems/c298223/
 http://rozetka.com.ua/mic_preamps/c298870/
 http://rozetka.com.ua/mic_access/c298449/
 http://rozetka.com.ua/dj_supply/c306401/
 http://rozetka.com.ua/dj_controllers/c306402/
 http://rozetka.com.ua/dj_mixers/c306909/
-http://rozetka.com.ua/dj_players/c307938/
 http://rozetka.com.ua/307438/c307438/
 http://rozetka.com.ua/headphones/c80027/23143=no/
 http://rozetka.com.ua/tv-photo-video/c80258/
@@ -326,29 +369,33 @@ http://bt.rozetka.com.ua/accessories_bigbt/c80177/
 http://bt.rozetka.com.ua/builtin/c80078/
 http://bt.rozetka.com.ua/ovens/c80141/
 http://bt.rozetka.com.ua/hobs/c80137/
+http://rozetka.com.ua/1102504/c1102504/
+http://bt.rozetka.com.ua/extractor_fans/c80140/
+http://bt.rozetka.com.ua/waste_disposers/c80134/
 http://bt.rozetka.com.ua/inbild-refrigerators/c80138/
-http://bt.rozetka.com.ua/186421/c186421/
 http://bt.rozetka.com.ua/washers/c80135/
 http://bt.rozetka.com.ua/dish_washers/c80136/
-http://bt.rozetka.com.ua/extractor_fans/c80140/
+http://bt.rozetka.com.ua/186421/c186421/
 http://bt.rozetka.com.ua/microwaves/c80139/
 http://bt.rozetka.com.ua/dif_builtin/c80178/
-http://bt.rozetka.com.ua/waste_disposers/c80134/
 http://bt.rozetka.com.ua/accessories_builtin/c80185/
+http://bt.rozetka.com.ua/1350182/c1350182/
 http://bt.rozetka.com.ua/climate/c80079/
+http://bt.rozetka.com.ua/307032/c307032/
+http://bt.rozetka.com.ua/boilers/c80131/
+http://bt.rozetka.com.ua/fans/c80186/
+http://bt.rozetka.com.ua/82795/c82795/
 http://bt.rozetka.com.ua/238247/c238247/
 http://bt.rozetka.com.ua/air_conditioners/c80133/
-http://bt.rozetka.com.ua/fans/c80186/
-http://bt.rozetka.com.ua/air_cleaners/c80128/
-http://bt.rozetka.com.ua/humidifiers/c80130/
-http://bt.rozetka.com.ua/388104/c388104/
-http://bt.rozetka.com.ua/82795/c82795/
-http://bt.rozetka.com.ua/heaters/c80192/
 http://bt.rozetka.com.ua/117206/c117206/
+http://bt.rozetka.com.ua/232175/c232175/
 http://bt.rozetka.com.ua/155960/c155960/
-http://bt.rozetka.com.ua/242289/c242289/
 http://bt.rozetka.com.ua/miniweather_stations/c80183/
-http://bt.rozetka.com.ua/150741/c150741/
+http://bt.rozetka.com.ua/heaters/c80192/
+http://bt.rozetka.com.ua/388104/c388104/
+http://bt.rozetka.com.ua/air_cleaners/c80128/
+http://bt.rozetka.com.ua/242289/c242289/
+http://bt.rozetka.com.ua/humidifiers/c80130/
 http://bt.rozetka.com.ua/150072/c150072/
 http://bt.rozetka.com.ua/kitchendishes/c80076/
 http://bt.rozetka.com.ua/128850/c128850/
@@ -360,18 +407,14 @@ http://bt.rozetka.com.ua/132273/c132273/
 http://bt.rozetka.com.ua/132290/c132290/
 http://bt.rozetka.com.ua/145871/c145871/
 http://bt.rozetka.com.ua/smallbt/c80077/
-http://bt.rozetka.com.ua/airgrills/c81089/
+http://bt.rozetka.com.ua/435974/c435974/
 http://bt.rozetka.com.ua/208243/c208243/
+http://bt.rozetka.com.ua/airgrills/c81089/
 http://bt.rozetka.com.ua/blenders/c80155/
-http://bt.rozetka.com.ua/102312/c102312/
 http://bt.rozetka.com.ua/sandwich_makers/c80180/
 http://bt.rozetka.com.ua/126962/c126962/
-http://bt.rozetka.com.ua/foot_bath/c81233/
 http://bt.rozetka.com.ua/kitchen_scales/c80148/
-http://bt.rozetka.com.ua/floor_scales/c81232/
 http://bt.rozetka.com.ua/grills/c81235/
-http://bt.rozetka.com.ua/health_beauty/c81228/
-http://bt.rozetka.com.ua/hairdressing/c81231/
 http://bt.rozetka.com.ua/yogurt_icecream_machines/c80179/
 http://bt.rozetka.com.ua/coffee_machines/c80164/
 http://bt.rozetka.com.ua/coffee_grinders/c80143/
@@ -379,42 +422,49 @@ http://bt.rozetka.com.ua/98002/c98002/
 http://bt.rozetka.com.ua/kitchen_machines/c80163/
 http://bt.rozetka.com.ua/slicers/c80144/
 http://bt.rozetka.com.ua/219954/c219954/
-http://bt.rozetka.com.ua/massagers/c81230/
-http://bt.rozetka.com.ua/hairclippers/c81229/
 http://bt.rozetka.com.ua/microwaves/c80162/
 http://bt.rozetka.com.ua/mixers/c80156/
 http://bt.rozetka.com.ua/112986/c112986/
 http://bt.rozetka.com.ua/meat_choppers/c80176/
-http://bt.rozetka.com.ua/sewing_machines/c80159/
-http://bt.rozetka.com.ua/138622/c138622/
+http://bt.rozetka.com.ua/81667/c81667/
 http://bt.rozetka.com.ua/steam_cookers/c80157/
-http://bt.rozetka.com.ua/steam_cleaners/c80151/
 http://bt.rozetka.com.ua/breweries/c80152/
-http://bt.rozetka.com.ua/123281/c123281/
-http://bt.rozetka.com.ua/182006/c182006/
-http://bt.rozetka.com.ua/vacuum_cleaners/c80158/
-http://bt.rozetka.com.ua/87381/c87381/
-http://bt.rozetka.com.ua/254387/c254387/
 http://bt.rozetka.com.ua/squeezers/c80153/
 http://bt.rozetka.com.ua/fruit_vegetable_dryers/c80697/
 http://bt.rozetka.com.ua/toasters/c80145/
-http://bt.rozetka.com.ua/irons/c80161/
-http://bt.rozetka.com.ua/hairdryers/c81227/
-http://bt.rozetka.com.ua/252133/c252133/
 http://bt.rozetka.com.ua/deep_fryers/c80150/
 http://bt.rozetka.com.ua/breadmakers/c80154/
-http://bt.rozetka.com.ua/sewing_machines/c80159/
-http://bt.rozetka.com.ua/electric_heating_pads/c81234/
 http://bt.rozetka.com.ua/electric_ovens/c80142/
-http://bt.rozetka.com.ua/men_electric_shavers/c81226/
 http://bt.rozetka.com.ua/electric_kettles/c80160/
+http://bt.rozetka.com.ua/435964/c435964/
+http://bt.rozetka.com.ua/steam_cleaners/c80151/
+http://bt.rozetka.com.ua/vacuum_cleaners/c80158/
+http://bt.rozetka.com.ua/irons/c80161/
+http://bt.rozetka.com.ua/sewing_machines/c80159/
+http://bt.rozetka.com.ua/182007/c182007/
+http://bt.rozetka.com.ua/182008/c182008/
+http://bt.rozetka.com.ua/103536/c103536/
+http://bt.rozetka.com.ua/435969/c435969/
+http://bt.rozetka.com.ua/foot_bath/c81233/
+http://bt.rozetka.com.ua/floor_scales/c81232/
+http://bt.rozetka.com.ua/hairdressing/c81231/
+http://bt.rozetka.com.ua/437994/c437994/
+http://bt.rozetka.com.ua/massagers/c81230/
+http://bt.rozetka.com.ua/hairclippers/c81229/
+http://bt.rozetka.com.ua/263330/c263330/
+http://bt.rozetka.com.ua/hairdryers/c81227/
+http://bt.rozetka.com.ua/252133/c252133/
+http://bt.rozetka.com.ua/electric_heating_pads/c81234/
+http://bt.rozetka.com.ua/men_electric_shavers/c81226/
 http://bt.rozetka.com.ua/epilators_female_shavers/c81225/
+http://bt.rozetka.com.ua/123281/c123281/
 http://bt.rozetka.com.ua/accessories_smallbt/c80149/
 http://bt.rozetka.com.ua/bathroom/c80106/
 http://bt.rozetka.com.ua/197626/c197626/
 http://bt.rozetka.com.ua/116902/c116902/
 http://bt.rozetka.com.ua/87382/c87382/
 http://bt.rozetka.com.ua/110263/c110263/
+http://bt.rozetka.com.ua/110262/c110262/
 http://bt.rozetka.com.ua/shower_doors/c80191/
 http://bt.rozetka.com.ua/showers/c80190/
 http://bt.rozetka.com.ua/shower_pallets/c80188/
@@ -432,10 +482,10 @@ http://bt.rozetka.com.ua/bathroom_blinds/c80704/
 http://bt.rozetka.com.ua/103535/c103535/
 http://bt.rozetka.com.ua/105277/c105277/
 http://bt.rozetka.com.ua/105278/c105278/
-http://bt.rozetka.com.ua/105279/c105279/
 http://bt.rozetka.com.ua/105282/c105282/
 http://bt.rozetka.com.ua/105281/c105281/
 http://bt.rozetka.com.ua/105280/c105280/
+http://bt.rozetka.com.ua/105279/c105279/
 http://bt.rozetka.com.ua/105283/c105283/
 http://bt.rozetka.com.ua/218821/c218821/
 http://bt.rozetka.com.ua/91450/c91450/
@@ -477,6 +527,7 @@ http://rozetka.com.ua/outdoorsman/c81202/" class="m-main-title" name="active-ele
 http://rozetka.com.ua/tourizm/c82411/
 http://rozetka.com.ua/tents/c82412/
 http://rozetka.com.ua/rucksacks/c82445/
+http://rozetka.com.ua/thermal_wear/c100209/
 http://rozetka.com.ua/luggage/c90423/
 http://rozetka.com.ua/sleeper/c82531/
 http://rozetka.com.ua/freezers/c82682/
@@ -485,11 +536,11 @@ http://rozetka.com.ua/bbq/c82696/
 http://rozetka.com.ua/sets/c82741/
 http://rozetka.com.ua/inflatable/c83646/
 http://rozetka.com.ua/mats/c82618/
+http://rozetka.com.ua/trekking_poles/c689339/
 http://rozetka.com.ua/toilets/c82766/
 http://rozetka.com.ua/coppers/c84098/
 http://rozetka.com.ua/lamps/c84099/
 http://rozetka.com.ua/dishware/c84520/
-http://rozetka.com.ua/thermal_wear/c100209/
 http://rozetka.com.ua/fuel/c84182/
 http://rozetka.com.ua/accessory/c82443/
 http://rozetka.com.ua/bioacces/c83466/
@@ -522,7 +573,11 @@ http://rozetka.com.ua/powerballs/c104764/
 http://rozetka.com.ua/trampolines/c210152/
 http://rozetka.com.ua/board_games/c98280/27959=27736/
 http://rozetka.com.ua/misc/c81648/
-http://rozetka.com.ua/338565/c338565/
+http://rozetka.com.ua/swimming_goods/c330635/
+http://rozetka.com.ua/330650/c330650/
+http://rozetka.com.ua/330655/c330655/
+http://rozetka.com.ua/330670/c330670/
+http://rozetka.com.ua/330660/c330660/
 http://rozetka.com.ua/sports_nutrition/c273292/
 http://rozetka.com.ua/creatine/c273293/
 http://rozetka.com.ua/protein/c273294/
@@ -533,30 +588,6 @@ http://rozetka.com.ua/special_adds/c274390/
 http://rozetka.com.ua/presport/c341460/
 http://rozetka.com.ua/vitamins/c274789/
 http://rozetka.com.ua/nutrition_accessories/c273298/
-http://rozetka.com.ua/weapon/c84625/
-http://rozetka.com.ua/rifles/c84647/
-http://rozetka.com.ua/pistols/c84675/
-http://rozetka.com.ua/flaubert/c230409/
-http://rozetka.com.ua/ammo/c86549/
-http://rozetka.com.ua/protect_ear/c272131/
-http://rozetka.com.ua/protect_glasses/c272132/
-http://rozetka.com.ua/bipods/c290825/
-http://rozetka.com.ua/decoys/c272130/
-http://rozetka.com.ua/crossbows/c117046/
-http://rozetka.com.ua/bows/c117150/
-http://rozetka.com.ua/slingshots/c118428/
-http://rozetka.com.ua/maket/c121376/
-http://rozetka.com.ua/tactical_pens/c285977/
-http://rozetka.com.ua/accessory/c86554/
-http://rozetka.com.ua/gun_care/c232621/
-http://rozetka.com.ua/missile_accesories/c193161/
-http://rozetka.com.ua/camo/c290826/
-http://rozetka.com.ua/301871/c301871/
-http://rozetka.com.ua/outdoorsman/knives_multitools/
-http://rozetka.com.ua/knives/c87073/
-http://rozetka.com.ua/multitools/c85359/
-http://rozetka.com.ua/grinders/c161149/
-http://rozetka.com.ua/covers_sheaths/c160821/
 http://rozetka.com.ua/boats_and_stuff/c86167/
 http://rozetka.com.ua/boats/c86168/
 http://rozetka.com.ua/motors/c86278/
@@ -567,14 +598,57 @@ http://rozetka.com.ua/fishing/c84703/
 http://rozetka.com.ua/rods/c85169/
 http://rozetka.com.ua/reels/c84712/
 http://rozetka.com.ua/wobblers/c153396/
+http://rozetka.com.ua/fishing_bags_and_tubes/c717989/
 http://rozetka.com.ua/bags/c85380/
 http://rozetka.com.ua/braids/c85399/
 http://rozetka.com.ua/accessories/c88770/
+http://rozetka.com.ua/1084784/c1084784/
+http://rozetka.com.ua/1087699/c1087699/47939=122772/
+http://rozetka.com.ua/weapon/c84625/
+http://rozetka.com.ua/starter_pistols/c415074/
+http://rozetka.com.ua/454024/c454024/
+http://rozetka.com.ua/opt_mounts/c283604/
+http://rozetka.com.ua/453199/c453199/
+http://rozetka.com.ua/protect_glasses/c272132/
+http://rozetka.com.ua/crossbows/c117046/
+http://rozetka.com.ua/bows/c117150/
+http://rozetka.com.ua/slingshots/c118428/
+http://rozetka.com.ua/maket/c121376/
+http://rozetka.com.ua/tactical_pens/c285977/
+http://rozetka.com.ua/accessory/c86554/
+http://rozetka.com.ua/gun_care/c232621/
+http://rozetka.com.ua/missile_accesories/c193161/
+http://rozetka.com.ua/hunting/c445999/
+http://rozetka.com.ua/decoys/c272130/
+http://rozetka.com.ua/camo/c290826/
+http://rozetka.com.ua/449744/c449744/
+http://rozetka.com.ua/sight/c148966/
+http://rozetka.com.ua/opt_mounts/c283604/
+http://rozetka.com.ua/binoculars/c83917/
+http://rozetka.com.ua/rangefinders/c250384/
+http://rozetka.com.ua/knives/c87073/
+http://rozetka.com.ua/454024/c454024/
+http://rozetka.com.ua/453199/c453199/
+http://rozetka.com.ua/protect_ear/c272131/
+http://rozetka.com.ua/protect_glasses/c272132/
+http://rozetka.com.ua/gun_care/c232621/
+http://rozetka.com.ua/301871/c301871/
+http://rozetka.com.ua/1084784/c1084784/
+http://rozetka.com.ua/1087699/c1087699/47939=122777/
+http://rozetka.com.ua/bulletproof_vests/c1100234/
+http://rozetka.com.ua/outdoorsman/knives_multitools/
+http://rozetka.com.ua/knives/c87073/
+http://rozetka.com.ua/multitools/c85359/
+http://rozetka.com.ua/grinders/c161149/
+http://rozetka.com.ua/covers_sheaths/c160821/
 http://rozetka.com.ua/radiomodels/c81499/
 http://rozetka.com.ua/cars/c81502/
 http://rozetka.com.ua/helicopters/c81500/
+http://rozetka.com.ua/quadrocopters/c1124685/
 http://rozetka.com.ua/aero/c81501/
 http://rozetka.com.ua/tanks/c81503/
+http://rozetka.com.ua/ships/c81505/
+http://rozetka.com.ua/batteries/c983164/
 http://rozetka.com.ua/accessory/c84542/
 http://rozetka.com.ua/sight/c148966/
 http://rozetka.com.ua/rangefinders/c250384/
@@ -591,6 +665,7 @@ http://rozetka.com.ua/darts/c294491/
 http://rozetka.com.ua/lighter/c97992/
 http://rozetka.com.ua/sport_glasses/c97988/
 http://rozetka.com.ua/detectors/c100957/
+http://rozetka.com.ua/repellents/c1086704/
 http://rozetka.com.ua/fitness/c132895/
 http://rozetka.com.ua/treadmills/c132896/
 http://rozetka.com.ua/exrecise_bikes/c133215/
@@ -601,21 +676,26 @@ http://rozetka.com.ua/massage_tables/c287558/
 http://rozetka.com.ua/hoops/c144743/
 http://rozetka.com.ua/bicycle/c83882/
 http://rozetka.com.ua/bicycles/c83884/
+http://rozetka.com.ua/bicycle_helmets/c268095/
+http://rozetka.com.ua/bicycle_gloves/c268120/
+http://rozetka.com.ua/bicycle_bags/c268123/
+http://rozetka.com.ua/bicyclecomp/c268129/
+http://rozetka.com.ua/bicycle_bottles/c268165/
+http://rozetka.com.ua/bicycle_accs/c269513/
 http://rozetka.com.ua/winter_season/c116671/
 http://rozetka.com.ua/sled/c118814/
-http://rozetka.com.ua/hockey_sticks/c118802/
+http://rozetka.com.ua/snowboard_boots/c397924/
+http://rozetka.com.ua/ski_boots/c394739/
+http://rozetka.com.ua/338565/c338565/
+http://rozetka.com.ua/skies/c118582/
+http://rozetka.com.ua/snowboards/c394764/
+http://rozetka.com.ua/ski_poles/c394754/
+http://rozetka.com.ua/masks/c396364/
+http://rozetka.com.ua/helmets/c394759/
+http://rozetka.com.ua/snowshoes/c400989/
 http://rozetka.com.ua/ledohod/c116672/
 http://rozetka.com.ua/christmas_trees/c248659/
 http://rozetka.com.ua/lazer_show/c127902/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=2590/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=42534/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=42529/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2585/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2589/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2591/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2588/
-http://rozetka.com.ua/flowerpots/c245547/
 http://rozetka.com.ua/outdoorsman/c81202/
 http://rozetka.com.ua/kids/c88468/" class="m-main-title" name="active-elem
 http://rozetka.com.ua/baby/c102298/
@@ -628,6 +708,7 @@ http://rozetka.com.ua/footmuffs/c195407/
 http://rozetka.com.ua/babymonitors/c146154/
 http://rozetka.com.ua/rattles/c103323/
 http://rozetka.com.ua/lighters/c159570/
+http://rozetka.com.ua/stroller_toys/c1183125/
 http://rozetka.com.ua/k_hygiene/c197324/
 http://rozetka.com.ua/k_bath/c197325/
 http://rozetka.com.ua/k_toilet/c197393/
@@ -640,11 +721,8 @@ http://rozetka.com.ua/dolls/c99392/
 http://rozetka.com.ua/pups/c100313/
 http://rozetka.com.ua/gaming_kits/c99674/
 http://rozetka.com.ua/k_accessory/c102829/
-http://rozetka.com.ua/me_to_you/c126219/
 http://rozetka.com.ua/sylvanian_families/c146664/
-http://rozetka.com.ua/craftholic/c219207/
 http://rozetka.com.ua/games-gifts-gadgets/c80260/
-http://rozetka.com.ua/christmas_trees/c248659/
 http://rozetka.com.ua/transportation/c100812/
 http://rozetka.com.ua/guns/c104013/
 http://rozetka.com.ua/k_cars/c102003/
@@ -656,24 +734,21 @@ http://rozetka.com.ua/modelling/c104335/
 http://rozetka.com.ua/modelling_acc/c108336/
 http://rozetka.com.ua/building_kits/c97420/
 http://rozetka.com.ua/ny_complekt/c128595/
-http://rozetka.com.ua/ny_decor/c368610/
 http://rozetka.com.ua/progressive/c100784/
 http://rozetka.com.ua/k_computers/c103520/
 http://rozetka.com.ua/consoles/c80020/
-http://rozetka.com.ua/board_games/c98280/
+http://rozetka.com.ua/board_games/c98280/27959=27735/
 http://rozetka.com.ua/science_kits/c102843/
 http://rozetka.com.ua/interactive_toys/c98159/
 http://rozetka.com.ua/puzzles/c102848/
 http://rozetka.com.ua/musical/c102876/
 http://rozetka.com.ua/drawing/c102912/
 http://rozetka.com.ua/playgrounds/c139442/
-http://rozetka.com.ua/k_inflatable/c208292/
 http://rozetka.com.ua/comfort/c100820/
 http://rozetka.com.ua/cseats/c83687/
 http://rozetka.com.ua/prams/c100389/
 http://rozetka.com.ua/accsforprams/c101746/
-http://rozetka.com.ua/accessory/c88756/
-http://rozetka.com.ua/kids_car_acc/c168143/
+http://rozetka.com.ua/stroller_toys/c1183125/
 http://rozetka.com.ua/optics/c203883/
 http://rozetka.com.ua/microscopes/c196825/
 http://rozetka.com.ua/planetarium/c196755/
@@ -683,8 +758,6 @@ http://rozetka.com.ua/furniture/c102573/
 http://rozetka.com.ua/k_beds/c101909/
 http://rozetka.com.ua/easels/c100194/
 http://rozetka.com.ua/swaddlers/c103214/
-http://rozetka.com.ua/lockers/c120571/
-http://rozetka.com.ua/furniture_acc/c108706/
 http://rozetka.com.ua/k_transportations/c100826/
 http://rozetka.com.ua/electrocars/c91143/
 http://rozetka.com.ua/mob/c104034/
@@ -774,7 +847,9 @@ http://rozetka.com.ua/bedframes/c185362/
 http://rozetka.com.ua/mattress/c177055/
 http://rozetka.com.ua/matress_pad/c177612/
 http://rozetka.com.ua/toppers/c346015/
-http://rozetka.com.ua/home_baskets/c375695/
+http://rozetka.com.ua/decoration_for_home/c375695/
+http://rozetka.com.ua/shades/c200388/
+http://rozetka.com.ua/beach_mats/c273888/
 http://rozetka.com.ua/fireplace/c152463/
 http://rozetka.com.ua/238600/c238600/
 http://rozetka.com.ua/bio_fireplaces/c157121/
@@ -797,14 +872,15 @@ http://rozetka.com.ua/241315/c241315/c241315/26256=22779/
 http://rozetka.com.ua/241315/c241315/c241315/26256=22798/
 http://rozetka.com.ua/241315/c241315/c241315/26256=22780/
 http://rozetka.com.ua/usb-gifts-jokes/c80017/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=2590/
+http://rozetka.com.ua/smartwatch/c651392/
+http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=43939/
 http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=42534/
 http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=42529/
 http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2585/
 http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2589/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2591/
 http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2588/
 http://rozetka.com.ua/christmas_trees/c248659/
+http://rozetka.com.ua/house_garden/c152456/
 http://rozetka.com.ua/273290/c273290/" class="m-main-title" name="active-elem
 http://rozetka.com.ua/273291/c273291/
 http://rozetka.com.ua/mediareceivers/c275389/
@@ -815,6 +891,10 @@ http://rozetka.com.ua/car_amplifiers/c276387/
 http://rozetka.com.ua/car_subwoofers/c276545/
 http://rozetka.com.ua/caraudio_accessories/c280066/27234=25660/
 http://rozetka.com.ua/caraudio_accessories/c280066/27234=25636/
+http://rozetka.com.ua/motor_oil/c1527297/
+http://rozetka.com.ua/motor_oil/c1527297/52827=124262/
+http://rozetka.com.ua/motor_oil/c1527297/52827=124257/
+http://rozetka.com.ua/motor_oil/c1527297/52827=124252/
 http://rozetka.com.ua/280596/c280596/
 http://rozetka.com.ua/car_alarms/c278818/
 http://rozetka.com.ua/parktronic/c278669/
@@ -824,6 +904,7 @@ http://rozetka.com.ua/radar_detectors/c153563/
 http://rozetka.com.ua/rear_view_cameras/c167898/
 http://rozetka.com.ua/transmitters/c130186/
 http://rozetka.com.ua/280598/c280598/
+http://rozetka.com.ua/alcometr/c191644/
 http://rozetka.com.ua/car_equipment/c278246/
 http://rozetka.com.ua/car_compressors/c278510/
 http://rozetka.com.ua/car_winches/c278247/
@@ -835,20 +916,241 @@ http://rozetka.com.ua/power_units/c180768/24797=15295/
 http://rozetka.com.ua/chargers/c155293/
 http://rozetka.com.ua/car_light/c277644/
 http://rozetka.com.ua/care_lamps/c278086/
+http://rozetka.com.ua/428109/c428109/
 http://rozetka.com.ua/drl/c277726/
 http://rozetka.com.ua/281618/c281618/
 http://rozetka.com.ua/car_cosmetics/c279061/
+http://rozetka.com.ua/car_cosmetics/c279061/27223=43119/
 http://rozetka.com.ua/car_cosmetics/c279061/27223=25574/
 http://rozetka.com.ua/car_cosmetics/c279061/27223=25570/
 http://rozetka.com.ua/car_cosmetics/c279061/27223=25569/
 http://rozetka.com.ua/car_cosmetics/c279061/27223=25571/
 http://rozetka.com.ua/car_cosmetics/c279061/27223=25573/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=2590/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=42534/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/21039=42529/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2585/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2589/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2591/
-http://rozetka.com.ua/usb-gifts-jokes/c80017/filter/c80017/filter/21039=2588/
 http://rozetka.com.ua/273290/c273290/
+http://rozetka.com.ua/travel/" class="m-main-title" name="active-elem
+http://rozetka.com.ua/travel/IEV/any/
+http://rozetka.com.ua/travel/IEV/MOW/
+http://rozetka.com.ua/travel/IEV/DOK/
+http://rozetka.com.ua/travel/IEV/SIP/
+http://rozetka.com.ua/travel/IEV/DNK/
+http://rozetka.com.ua/travel/IEV/ODS/
+http://rozetka.com.ua/travel/IEV/LWO/
+http://rozetka.com.ua/travel/IEV/IST/
+http://rozetka.com.ua/travel/IEV/AMS/
+http://rozetka.com.ua/travel/IEV/VIE/
+http://rozetka.com.ua/travel/IEV/CDG/
+http://rozetka.com.ua/travel/IEV/LED/
+http://rozetka.com.ua/travel/
+http://rozetka.com.ua/travel/DOK/IEV/
+http://rozetka.com.ua/travel/SIP/IEV/
+http://rozetka.com.ua/travel/DOK/MOW/
+http://rozetka.com.ua/travel/DNK/IEV/
+http://rozetka.com.ua/travel/DNK/MOW/
+http://rozetka.com.ua/travel/LWO/IEV/
+http://rozetka.com.ua/travel/HRK/MOW/
+http://rozetka.com.ua/travel/ODS/IEV/
+http://rozetka.com.ua/travel/LWO/WAW/
+http://rozetka.com.ua/travel/HRK/IEV/
+http://rozetka.com.ua/travel/railway/kyiv-pasazhyrsky/any/
+http://rozetka.com.ua/travel/railway/kyiv-pasazhyrsky/simferopol-pas/
+http://rozetka.com.ua/travel/railway/kyiv-pasazhyrsky/lviv/
+http://rozetka.com.ua/travel/railway/kyiv-pasazhyrsky/odesa-holovna/
+http://rozetka.com.ua/travel/railway/kyiv-pasazhyrsky/moskva-kievskaia/
+http://rozetka.com.ua/travel/railway/kyiv-pasazhyrsky/kherson/
+http://rozetka.com.ua/travel/railway/kyiv-pasazhyrsky/donetsk/
+http://rozetka.com.ua/travel/railway/kyiv-pasazhyrsky/kharkiv-pas/
+http://rozetka.com.ua/travel/railway/kyiv-pasazhyrsky/sevastopol/
+http://rozetka.com.ua/travel/railway/kyiv-pasazhyrsky/dnipropetrovsk-holovny/
+http://rozetka.com.ua/travel/railway/kyiv-pasazhyrsky/zaporizhzhya-1/
+http://rozetka.com.ua/travel/railway/
+http://rozetka.com.ua/travel/railway/simferopol-pas/kyiv-pasazhyrsky/
+http://rozetka.com.ua/travel/railway/donetsk/kyiv-pasazhyrsky/
+http://rozetka.com.ua/travel/railway/donetsk/simferopol-pas/
+http://rozetka.com.ua/travel/railway/kharkiv-pas/simferopol-pas/
+http://rozetka.com.ua/travel/railway/lviv/kyiv-pasazhyrsky/
+http://rozetka.com.ua/travel/railway/zaporizhzhya-1/kyiv-pasazhyrsky/
+http://rozetka.com.ua/travel/railway/dnipropetrovsk-holovny/kyiv-pasazhyrsky/
+http://rozetka.com.ua/travel/railway/odesa-holovna/kyiv-pasazhyrsky/
+http://rozetka.com.ua/travel/railway/kherson/kyiv-pasazhyrsky/
+http://rozetka.com.ua/travel/railway/kharkiv-pas/kyiv-pasazhyrsky/
+http://rozetka.com.ua/travel/timetables/new/
+http://rozetka.com.ua/shoes_clothes/c1162030/" class="m-main-title" name="active-elem
+http://rozetka.com.ua/men_shoes/c721654/
+http://rozetka.com.ua/men_shoes/c721654/38610=58785/
+http://rozetka.com.ua/men_shoes/c721654/38610=58780/
+http://rozetka.com.ua/men_shoes/c721654/38610=58810/
+http://rozetka.com.ua/men_shoes/c721654/38610=58790/
+http://rozetka.com.ua/men_shoes/c721654/38610=58815/
+http://rozetka.com.ua/men_shoes/c721654/38610=58800/
+http://rozetka.com.ua/men_shoes/c721654/38610=63360/
+http://rozetka.com.ua/men_shoes/c721654/38610=58820/
+http://rozetka.com.ua/men_shoes/c721654/38610=58775/
+http://rozetka.com.ua/men_shoes/c721654/38610=58765/
+http://rozetka.com.ua/men_shoes/c721654/38610=58855/
+http://rozetka.com.ua/kids_boys_shoes/c721669/
+http://rozetka.com.ua/kids_boys_shoes/c721669/38610=58785/
+http://rozetka.com.ua/kids_boys_shoes/c721669/38610=58780/
+http://rozetka.com.ua/kids_boys_shoes/c721669/38610=58810/
+http://rozetka.com.ua/kids_boys_shoes/c721669/38610=58790/
+http://rozetka.com.ua/kids_boys_shoes/c721669/38610=58815/
+http://rozetka.com.ua/kids_boys_shoes/c721669/38610=58800/
+http://rozetka.com.ua/kids_boys_shoes/c721669/38610=58775/
+http://rozetka.com.ua/kids_boys_shoes/c721669/38610=58765/
+http://rozetka.com.ua/shoes/c458425/
+http://rozetka.com.ua/shoes_care/c1136315/
+http://rozetka.com.ua/shoes_accesories/c1138360/
+http://rozetka.com.ua/women_shoes/c721659/
+http://rozetka.com.ua/women_shoes/c721659/38610=58785/
+http://rozetka.com.ua/women_shoes/c721659/38610=58790/
+http://rozetka.com.ua/women_shoes/c721659/38610=58850/
+http://rozetka.com.ua/women_shoes/c721659/38610=63355/
+http://rozetka.com.ua/women_shoes/c721659/38610=58795/
+http://rozetka.com.ua/women_shoes/c721659/38610=58780/
+http://rozetka.com.ua/women_shoes/c721659/38610=63350/
+http://rozetka.com.ua/women_shoes/c721659/38610=58815/
+http://rozetka.com.ua/women_shoes/c721659/38610=58810/
+http://rozetka.com.ua/women_shoes/c721659/38610=58800/
+http://rozetka.com.ua/women_shoes/c721659/38610=58820/
+http://rozetka.com.ua/women_shoes/c721659/38610=58855/
+http://rozetka.com.ua/women_shoes/c721659/38610=63360/
+http://rozetka.com.ua/women_shoes/c721659/38610=58775/
+http://rozetka.com.ua/women_shoes/c721659/38610=58765/
+http://rozetka.com.ua/kids_girls_shoes/c721664/
+http://rozetka.com.ua/kids_girls_shoes/c721664/38610=58785/
+http://rozetka.com.ua/kids_girls_shoes/c721664/38610=58790/
+http://rozetka.com.ua/kids_girls_shoes/c721664/38610=58850/
+http://rozetka.com.ua/kids_girls_shoes/c721664/38610=58780/
+http://rozetka.com.ua/kids_girls_shoes/c721664/38610=58815/
+http://rozetka.com.ua/kids_girls_shoes/c721664/38610=58810/
+http://rozetka.com.ua/kids_girls_shoes/c721664/38610=58800/
+http://rozetka.com.ua/kids_girls_shoes/c721664/38610=58820/
+http://rozetka.com.ua/kids_girls_shoes/c721664/38610=58775/
+http://rozetka.com.ua/kids_girls_shoes/c721664/38610=58765/
+http://rozetka.com.ua/1162070/c1162070/
+http://rozetka.com.ua/1162070/c1162070/49520=105670/
+http://rozetka.com.ua/1162070/c1162070/49520=105710/
+http://rozetka.com.ua/1162070/c1162070/49520=106865/
+http://rozetka.com.ua/1162070/c1162070/49520=105680/
+http://rozetka.com.ua/1162070/c1162070/49520=105700/
+http://rozetka.com.ua/1162070/c1162070/49520=105695/
+http://rozetka.com.ua/1162070/c1162070/49520=105675/
+http://rozetka.com.ua/1162070/c1162070/49520=107295/
+http://rozetka.com.ua/1162070/c1162070/49520=105705/
+http://rozetka.com.ua/1162070/c1162070/49520=106450/
+http://rozetka.com.ua/1162070/c1162070/49520=105685%2C105690/
+http://rozetka.com.ua/1162070/c1162070/49520=106810/
+http://rozetka.com.ua/1136470/c1136470/49570=106075/
+http://rozetka.com.ua/1087699/c1087699/47939=122772/
+http://rozetka.com.ua/1087699/c1087699/47939=122777/
+http://rozetka.com.ua/1087699/c1087699/47939=122782/
+http://rozetka.com.ua/boys_clothing/c1290392/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115337/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115372/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=117597/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115352/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115362/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115377/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115382/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115367/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=116562/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115397/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115392/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115767/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115402/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115357/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115387/
+http://rozetka.com.ua/boys_clothing/c1290392/51877=115387/
+http://rozetka.com.ua/1162060/c1162060/
+http://rozetka.com.ua/1162060/c1162060/49495=105295/
+http://rozetka.com.ua/1162060/c1162060/49495=105300/
+http://rozetka.com.ua/1162060/c1162060/49495=105305/
+http://rozetka.com.ua/1162060/c1162060/49495=105310/
+http://rozetka.com.ua/1162060/c1162060/49495=105315/
+http://rozetka.com.ua/1136470/c1136470/49570=106070/
+http://rozetka.com.ua/1162060/c1162060/49495=105325/
+http://rozetka.com.ua/1162060/c1162060/49495=105330/
+http://rozetka.com.ua/1162060/c1162060/49495=105340/
+http://rozetka.com.ua/1162060/c1162060/49495=105345/
+http://rozetka.com.ua/1162060/c1162060/49495=105350/
+http://rozetka.com.ua/1162060/c1162060/49495=105355/
+http://rozetka.com.ua/1162060/c1162060/49495=106575/
+http://rozetka.com.ua/1162060/c1162060/49495=106580/
+http://rozetka.com.ua/1162060/c1162060/49495=106770/
+http://rozetka.com.ua/1162060/c1162060/49495=107540/
+http://rozetka.com.ua/tights/c1136465/50350=108920/
+http://rozetka.com.ua/girls_clothing/c1285573/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114882/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=115407/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114837/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114827/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=115412/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=117422/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114832/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114842/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=115162/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114867/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=115532/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114862/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=115802/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114852/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114822/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114857/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114847/
+http://rozetka.com.ua/girls_clothing/c1285573/51803=114872/
+http://rozetka.com.ua/tights/c1136465/50350=108925/
+http://rozetka.com.ua/accessories/c1321132/
+http://rozetka.com.ua/accessories/c1321132/52262=120087/
+http://rozetka.com.ua/accessories/c1321132/52262=121047/
+http://rozetka.com.ua/accessories/c1321132/52262=117417/
+http://rozetka.com.ua/accessories/c1321132/52262=117567/
+http://rozetka.com.ua/accessories/c1321132/52262=117562/
+http://rozetka.com.ua/accessories/c1321132/52262=117412/
+http://rozetka.com.ua/accessories/c1321132/52262=119167/
+http://rozetka.com.ua/accessories/c1321132/52262=117407/
+http://rozetka.com.ua/accessories/c1321132/52262=117402/
+http://rozetka.com.ua/baby_clothing/c1230990/
+http://rozetka.com.ua/baby_clothing/c1230990/51967=115912/
+http://rozetka.com.ua/baby_clothing/c1230990/51967=117612/
+http://rozetka.com.ua/baby_clothing/c1230990/51967=115922/
+http://rozetka.com.ua/baby_clothing/c1230990/51967=115917/
+http://rozetka.com.ua/baby_clothing/c1230990/51967=119902/
+http://rozetka.com.ua/baby_clothing/c1230990/51967=115937/
+http://rozetka.com.ua/baby_clothing/c1230990/51967=115932/
+http://rozetka.com.ua/baby_clothing/c1230990/51967=115942/
+http://rozetka.com.ua/kids_accessories/c1315537/
+http://rozetka.com.ua/kids_accessories/c1315537/52087=116742/
+http://rozetka.com.ua/kids_accessories/c1315537/52087=121072/
+http://rozetka.com.ua/kids_accessories/c1315537/52087=119847/
+http://rozetka.com.ua/kids_accessories/c1315537/52087=116747/
+http://rozetka.com.ua/shoes_clothes/c1162030/
+http://rozetka.com.ua/jewerly/c723119/" class="m-main-title" name="active-elem
+http://rozetka.com.ua/zolotye-i-platinovye-izdeliya/c723934/
+http://rozetka.com.ua/kol-ca/c724004/
+http://rozetka.com.ua/ser-gi/c724094/
+http://rozetka.com.ua/kulony/c724039/
+http://rozetka.com.ua/kol-e/c723984/
+http://rozetka.com.ua/braslety/c723939/
+http://rozetka.com.ua/cepi/c724139/
+http://rozetka.com.ua/zolotye-aksessuary/c723964/
+http://rozetka.com.ua/broshi/c723959/
+http://rozetka.com.ua/pirsing/c724089/
+http://rozetka.com.ua/serebryanye-izdeliya/c753584/
+http://rozetka.com.ua/kol-ca-2/c753634/
+http://rozetka.com.ua/ser-gi-1/c753674/
+http://rozetka.com.ua/kulony-1/c753649/
+http://rozetka.com.ua/kol-e-1/c753619/
+http://rozetka.com.ua/braslety-2/c753589/
+http://rozetka.com.ua/cepi-1/c753709/
+http://rozetka.com.ua/broshi-1/c753614/
+http://rozetka.com.ua/serebryanye-zaponki/c753669/
+http://rozetka.com.ua/elitnaya-bizhuteriya/c753879/
+http://rozetka.com.ua/kol-e-podveski/c753899/
+http://rozetka.com.ua/braslety-1/c753884/
+http://rozetka.com.ua/kol-ca-1/c753914/
+http://rozetka.com.ua/ser-gi-klipsy/c753929/
+http://rozetka.com.ua/tatu-swarovski/c753954/
+http://rozetka.com.ua/1162060/c1162060/
+http://rozetka.com.ua/brillianty/c753819/
+http://rozetka.com.ua/futlyary-dlya-izdeliy/c753854/
+http://rozetka.com.ua/yantar-samorodok/c753874/
+http://rozetka.com.ua/jewerly/c723119/
